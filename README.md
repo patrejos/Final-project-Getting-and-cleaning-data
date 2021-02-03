@@ -1,7 +1,7 @@
 This is the Final project for the course Getting and cleaning data in the platform Coursera, presented by Paula Trejos. In this document i present a series of instrunctions in the way to hanlde the information. 
 
 Data Set: Found in 
-<a href:http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones> Data collectd form accelerometers from the Samsung Galaxy S smartphone.</a>
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones Data collectd form accelerometers from the Samsung Galaxy S smartphone.
 
 This repository contains 3 Files besides this one:
 
