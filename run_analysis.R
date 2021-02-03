@@ -11,7 +11,7 @@ MyTidyData$code <- activity_labels[MyTidyData$code, 2]
 names(MyTidyData)[2] = "activity"
 names(MyTidyData)<-gsub("Acc", "Accelerometer", names(MyTidyData))
 names(MyTidyData)<-gsub("Gyro", "Gyroscope", names(MyTidyData))
-names(MyTidyData)<-gsub("BodyBody", "Body", names(MyTidyData))
+names(MyTidyData)<-gsub("BBody", "Body", names(MyTidyData))
 names(MyTidyData)<-gsub("Mag", "Magnitude", names(MyTidyData))
 names(MyTidyData)<-gsub("^t", "Time", names(MyTidyData))
 names(MyTidyData)<-gsub("^f", "Frequency", names(MyTidyData))
